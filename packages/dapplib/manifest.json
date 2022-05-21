@@ -1,0 +1,14 @@
+{
+    "repository": {},
+    "__outputFolder": null,
+    "blocks": [
+        {
+            "category": "access_control",
+            "name": "core-administrator_role",
+            "parameters": {}
+        }
+    ],
+    "blockchain": "polygon",
+    "language": "solidity",
+    "framework": "vanilla"
+}

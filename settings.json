@@ -1,0 +1,9 @@
+{
+    "name": "PP",
+    "blocks": {
+        "/blockchain/polygon": true,
+        "/blockchain/polygon/solidity": true,
+        "/framework/vanilla": true,
+        "/category/access_control/core-administrator_role": true
+    }
+}
